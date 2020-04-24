@@ -4,6 +4,9 @@
 
 技术文档请访问：https://gitee.com/LinkPi/LinkLib/wikis/pages
 
+不定时清理历史记录，如出现无法pull情况，请强拉：
+git fetch --all && git reset --hard origin/master && git pull
+
 第三方交叉编译库(评估板附带的虚拟机已包含): 
 git clone http://live.linkpi.cn:888/git/cross.git
 
