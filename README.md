@@ -18,6 +18,7 @@ Technical documentation is available at: https://gitee.com/LinkPi/LinkLib/wikis/
 
 More modules are gradually being opened. Watch this space!
 
+---
 **相关目录:**  
 编码器源码： https://gitee.com/LinkPi/Encoder  
 编码器使用说明书: https://gitee.com/LinkPi/Encoder/wikis/pages  
