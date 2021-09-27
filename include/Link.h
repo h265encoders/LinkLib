@@ -28,6 +28,7 @@ public:
     static bool init(bool sys=true);
     static LinkObject* create(QString className, QString name="");
     static LinkObject* find(QString name);
+    static QByteArray sn;
     static QVariantMap getConfig();
     static bool setConfig(QString path);
     static QThread *newThread(QString &name,QThread::Priority priority=QThread::NormalPriority);
