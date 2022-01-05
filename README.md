@@ -26,5 +26,5 @@ LinkLib API explain -- https://gitee.com/LinkPi/LinkLib/wikis/pages
 LinkLib example source code -- https://github.com/h265encoders/Example  
 LinkLib example documentation -- https://gitee.com/LinkPi/Example/wikis/pages/preview?sort_id=1451722&doc_id=287009  
 Guide to use of evaluation boards -- https://gitee.com/LinkPi/Example/wikis/pages/preview  
-Hisilicon AI entry (machine vision) example source code -- https://gitee.com/LinkPi/LinkSVP  
+Hisilicon AI entry (machine vision) example source code -- https://github.com/h265encoders/LinkSVP  
 Hisilicon AI introduction (machine vision) example illustration -- https://gitee.com/LinkPi/LinkSVP/wikis/pages  
