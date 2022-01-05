@@ -21,7 +21,7 @@ More modules are gradually being opened. Watch this space!
 ---
 **The directories**  
 Encoder source code -- https://github.com/h265encoders/Encoder  
-Encoder user Manual -- https://www.h265encoders.com/support/enc-series-user-manual/
+Encoder user Manual -- https://www.h265encoders.com/support/enc-series-user-manual
 LinkLib API说明：https://gitee.com/LinkPi/LinkLib/wikis/pages  
 LinkLib例子源码：https://gitee.com/LinkPi/Example  
 LinkLib例子说明：https://gitee.com/LinkPi/Example/wikis/pages/preview?sort_id=1451722&doc_id=287009  
