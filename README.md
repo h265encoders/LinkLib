@@ -21,12 +21,10 @@ More modules are gradually being opened. Watch this space!
 ---
 **The directories**  
 Encoder source code -- https://github.com/h265encoders/Encoder  
-Encoder user Manual -- https://www.h265encoders.com/support/enc-series-user-manual
-LinkLib API说明：https://gitee.com/LinkPi/LinkLib/wikis/pages  
-LinkLib例子源码：https://gitee.com/LinkPi/Example  
-LinkLib例子说明：https://gitee.com/LinkPi/Example/wikis/pages/preview?sort_id=1451722&doc_id=287009  
-评估板使用指南: https://gitee.com/LinkPi/Example/wikis/pages/preview  
-海思AI入门(机器视觉)例子源码：https://gitee.com/LinkPi/LinkSVP  
-海思AI入门(机器视觉)例子说明：https://gitee.com/LinkPi/LinkSVP/wikis/pages  
-LinkPi微信公众号及小程序：https://gitee.com/LinkPi/Encoder/wikis/pages/preview?sort_id=2165970&doc_id=338777  
-LinkPi博客：https://blog.csdn.net/weixin_45326556  
+Encoder user manual -- https://www.h265encoders.com/support/enc-series-user-manual
+LinkLib API explain -- https://gitee.com/LinkPi/LinkLib/wikis/pages  
+LinkLib example source code -- https://github.com/h265encoders/Example  
+LinkLib example documentation -- https://gitee.com/LinkPi/Example/wikis/pages/preview?sort_id=1451722&doc_id=287009  
+Guide to use of evaluation boards -- https://gitee.com/LinkPi/Example/wikis/pages/preview  
+Hisilicon AI entry (machine vision) example source code -- https://gitee.com/LinkPi/LinkSVP  
+Hisilicon AI introduction (machine vision) example illustration -- https://gitee.com/LinkPi/LinkSVP/wikis/pages  
